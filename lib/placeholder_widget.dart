@@ -193,7 +193,7 @@ class _AddTwoNumbersState extends State<AddTwoNumbers> {
                       labelStyle:
                           TextStyle(color: Colors.black87, fontSize: 24.0),
                       border: OutlineInputBorder(),
-                      labelText: 'Day in mont',
+                      labelText: 'Day in month',
                       contentPadding: EdgeInsets.all(20)),
                 ),
               )),
